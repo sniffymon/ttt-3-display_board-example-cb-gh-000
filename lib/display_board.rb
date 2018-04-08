@@ -2,7 +2,7 @@
 boardcell = "   |   |   "
 boardline = "-----------"
 def display_board
-  puts(boardcell.Class)
+  puts(boardcell)
   printf(boardline)
   printf(boardcell)
   printf(boardline)
