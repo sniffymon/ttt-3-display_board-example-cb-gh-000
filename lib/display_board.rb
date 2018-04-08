@@ -7,4 +7,4 @@ def display_board
   printf(boardcell)
   printf(boardline)
   printf(boardcell)
-End def
+end
