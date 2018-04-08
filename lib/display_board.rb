@@ -2,10 +2,10 @@
 boardcell = ["   ","|","   ","|","   "]
 boardline = ["-----------"]
 def display_board
-  printf(boardcell)
-  printf(boardline)
-  printf(boardcell)
-  printf(boardline)
-  printf(boardcell)
+  p(boardcell)
+  p(boardline)
+  p(boardcell)
+  p(boardline)
+  p(boardcell)
 end
 display_board
