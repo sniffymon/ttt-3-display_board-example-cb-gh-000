@@ -8,3 +8,4 @@ def display_board
   printf(boardline)
   printf(boardcell)
 end
+display_board
